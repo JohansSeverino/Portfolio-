@@ -1,0 +1,44 @@
+.header img{
+    Height:500px;
+    width:300px;
+}
+
+.header{
+    background-image:url("port4.jpg");
+    background-image:cover;
+}
+
+.header h1{
+    color:white;
+}
+.header p{
+    color:white;
+}
+
+.all{
+    background-image: url("port4.jpg");
+    background-size:cover;
+}
+
+.all p{
+     color:white;
+}
+
+.all h1{
+     color:white;
+}
+.all h3{
+     color:white;
+}
+
+.all li{
+     color:white;
+}
+.all h4{
+     color:white;
+}
+
+.all{
+    padding: 50px;
+    
+}
